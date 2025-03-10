@@ -19,3 +19,5 @@ result, err = quad(int, 0, 1, args=(L))
 
 print(k * result)
 
+#paper: Griest1991:
+#Link: https://ui.adsabs.harvard.edu/abs/1991ApJ...366..412G/abstract
